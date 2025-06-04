@@ -1,0 +1,10 @@
+{
+  "required": true,
+  "package": "reobf.fluiddiscretizer.main.mixin.mixins",
+  "refmap": "mixins.fluiddiscretizer.refmap.json",
+  "target": "@env(DEFAULT)",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [],
+  "client": [],
+  "server": []
+}

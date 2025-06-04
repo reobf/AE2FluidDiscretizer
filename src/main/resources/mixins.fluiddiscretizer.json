@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8.5-GTNH",
+  "package": "reobf.fluiddiscretizer.main.mixin.mixins",
+  "plugin": "reobf.fluiddiscretizer.main.mixin.MixinPlugin", 
+  "refmap": "mixins.fluiddiscretizer.refmap.json",
+  "target": "@env(DEFAULT)",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [],
+  "client": [],
+  "server": []
+}
